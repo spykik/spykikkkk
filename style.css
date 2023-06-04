@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    color: red;
+    background-color: aquamarine;
+}
+nav{
+    color: gold;
+    background-color: burlywood;
+}
+p{
+    color: green;
+}
+h1{
+    background-color: chartreuse;
+    border: 50px;
+    border-radius: 200px;
+}
+li{
+    color: red;
+}
